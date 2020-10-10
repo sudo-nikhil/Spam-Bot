@@ -1,4 +1,4 @@
-# Spammer
+# Spam Bot
 This is a simple python bot to demonstrate how PyAutoGUI works.
 
 You have to make sure that you have python installed.
