@@ -1,2 +1,2 @@
 import os
-os.system("pip install PyAutoGUI")
+os.system("pip3 install PyAutoGUI")
